@@ -2,7 +2,7 @@
 
 ## I'm a just a student that wants to learn something.
 - 🍒 I’m currently learning everything 
-- 🐱‍👤 Fun fact: I change my system more often then windows breaks :)
+- 🐱‍👤 Fun fact: I change my system more often than windows breaks :)
 ### Contact with me:
 <img align="left" alt="kasjan321 | Discord" width="22px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />kasjan321#4360
 ### Languages and Tools:
