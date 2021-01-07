@@ -4,7 +4,7 @@
 - 🍒 I’m currently learning everything 
 - 🐱‍👤 Fun fact: I change my system more often than windows breaks :)
 ### Contact with me:
-<img align="left" alt="kasjan321 | Discord" width="22px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />kasjan321#4360
+<img align="left" alt="kasjan321 | Discord" width="22px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />kasjan321#8633
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/16/634601_python_512x512.png" />
