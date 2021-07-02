@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+
 <li>
 <b>Name:</b> Max</li>
 <li>
@@ -24,9 +24,12 @@
 </b></p>
 </div>
 <div>
+
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-
+<div align="center">
+<img src="https://www.gifcen.com/wp-content/uploads/2021/02/zero-two-gif-13.gif">
+</div>
 </div>
 <div>
 <p align="center">
@@ -41,7 +44,7 @@ I'm a just a student that wants to learn something. Sometimes I also try to hack
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
@@ -51,8 +54,12 @@ most used s-s-sociaw things >~< xoxox</p>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif">
+</div>
 
-<hr>
+
+
 </div>
 </div>
 </body>
