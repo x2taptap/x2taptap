@@ -22,15 +22,13 @@
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
 </b></p>
-</div>
-<div>
 
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <div align="center">
 <img src="https://www.gifcen.com/wp-content/uploads/2021/02/zero-two-gif-13.gif">
 </div>
-</div>
+
 <div>
 <p align="center">
  <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,7 +41,7 @@
 I'm a just a student that wants to learn something. Sometimes I also try to hack random things
 </p>
 <br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <br>
 <p align="center">Hewe awe some of my <br>
